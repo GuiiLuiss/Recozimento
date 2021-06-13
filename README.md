@@ -8,3 +8,5 @@ O conjunto de dados apresentado traz o resultado da execução de diferentes pro
 
 *Importante*: 
 Somente experimentos realizados em agosto de 2020 serão considerados. A tabela acessória 'data_experimentos.csv' contém essa informação.
+
+É possível acessar o notebook do projeto através deste link: https://colab.research.google.com/drive/18vaNiUk4lfpigdTK_t6dLUitXHL7g7bk?usp=sharing
